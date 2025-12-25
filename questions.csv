@@ -1,0 +1,7 @@
+question,answer,correct_feedback,incorrect_feedback,hint
+"教育科技常用的教學設計模型縮寫是？",ADDIE,"沒錯！ADDIE是經典模型。","不對喔，是五個字母。","提示：Analysis, Design..."
+"虛擬實境的英文縮寫是？",VR,"正確！Virtual Reality。","是一種沉浸式技術。","提示：兩個字母。"
+"學習管理系統的縮寫是？",LMS,"答對了！Learning Management System。","通常用於線上課程管理。","提示：L...M...S"
+"強調學習者主動建構知識的理論是？",建構主義,"觀念正確！","提示：不是行為主義。","提示：知識是自己建構的。"
+"MOOCs中文常被稱為？",大規模開放線上課程,"完全正確！","提示：Massive Open Online Courses。","提示：很多人的線上課程。"
+"TPACK模型中，T代表什麼英文單字？",Technology,"答對了！科技知識。","提示：Technology。","提示：科技。"
